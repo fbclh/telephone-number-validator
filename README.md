@@ -4,7 +4,7 @@ freeCodeCamp JavaScript Algorithms and Data Structure project
 
 ## Description
 
-Convert the given arabic number into a roman numeral.
+Return true if the passed string looks like a valid US phone number.
 
 ## Example
 
